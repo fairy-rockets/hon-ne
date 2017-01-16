@@ -6,7 +6,11 @@
 
 # demo site
 
-<a href=""></a>
+<a href="https://ledyba.github.io/hon-ne/">今日も一日がんばるぞい！</a>…？
+
+<a href="https://ledyba.github.io/hon-ne/">
+<img src="demo.png">
+</a>
 
 # Further reading
  - <a href="http://wfrontier.jp/security-font.html">セキュリティフォント</a>
