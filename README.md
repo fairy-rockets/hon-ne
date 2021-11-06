@@ -6,9 +6,9 @@
 
 # demo site
 
-<a href="https://ledyba.github.io/hon-ne/">今日も一日がんばるぞい！</a>…？
+<a href="https://fairy-rockets.github.io/hon-ne/">今日も一日がんばるぞい！</a>…？
 
-<a href="https://ledyba.github.io/hon-ne/">
+<a href="https://fairy-rockets.github.io/hon-ne/">
 <img src="demo.png">
 </a>
 
